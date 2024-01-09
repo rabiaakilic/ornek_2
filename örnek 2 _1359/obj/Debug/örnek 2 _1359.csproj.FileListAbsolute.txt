@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\bin\Debug\örnek 2 _1359.exe.config
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\bin\Debug\örnek 2 _1359.exe
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\bin\Debug\örnek 2 _1359.pdb
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek 2 _1359.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek 2 _1359.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek_2__1359.Form1.resources
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek_2__1359.Properties.Resources.resources
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek 2 _1359.csproj.GenerateResource.cache
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek 2 _1359.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek 2 _1359.exe
+C:\Users\User\source\repos\örnek 2 _1359\örnek 2 _1359\obj\Debug\örnek 2 _1359.pdb
